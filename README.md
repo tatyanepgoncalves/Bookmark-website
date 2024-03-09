@@ -33,14 +33,14 @@ Os usuários devem ser capazes de:
     - O endereço de e-mail não está formatado corretamente
 
 
-### Links 🛜
+### Links 
 
 - Solução URL: [Resposta](https://github.com/tatyanepgoncalves/Bookmark-website)
 - Live Site URL: [Site Ativo](https://tatyanepgoncalves.github.io/Bookmark-website/)
 
 ## Meu processo
 
-### Construído com ⚒️
+### Construído com 
 
 - Marcação HTML5 semântica
 - Propriedades personalizadas CSS
@@ -53,8 +53,9 @@ Os usuários devem ser capazes de:
 
 ### O que aprendi
 
-Aprendi a como colocar formas de fundo com CSS.
-````css
+Inserir formas no plano de fundo com CSS
+
+```css
 .simple-img{
     background-color: var(--soft-blue);
     border-radius: 0 0 0 100px;
@@ -70,8 +71,9 @@ Aprendi a como colocar formas de fundo com CSS.
     left: -150px;
 } 
 ```
-Usar JS de forma dinâmica com textos e imagens
-```
+
+JS de forma dinâmica com textos e imagens
+
 ```js
 function ActiveTab(index){
     document.getElementById("tab1Content").style.display = "none";
